@@ -1,0 +1,3 @@
+module Goods {
+    exports goods;
+}
